@@ -1,0 +1,1868 @@
+Failed to get some services:
+[31;1mGet-Service: [0m
+[31;1m[36;1mLine |[0m
+[31;1m[36;1m[36;1m   2 | [0m         [36;1mGet-Service[0m | Select-Object -Property Name,DisplayName,Status :[0m
+[31;1m[36;1m[36;1m[0m[36;1m[0m[36;1m     | [31;1m         ~~~~~~~~~~~[0m
+[31;1m[36;1m[36;1m[0m[36;1m[0m[36;1m[31;1m[31;1m[36;1m     | [31;1mService 'McpManagementService (McpManagementService)' cannot be queried due to the following error: PermissionDenied[0m
+
+[
+    {
+        "Name": "Backupper Service",
+        "DisplayName": "AOMEI Backupper Scheduler Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "amm_LSService",
+        "DisplayName": "Actual Multiple Monitors Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "AdobeARMservice",
+        "DisplayName": "Adobe Acrobat Update Service",
+        "StartType": "Disabled"
+    },
+    {
+        "Name": "AdobeFlashPlayerUpdateSvc",
+        "DisplayName": "Adobe Flash Player Update Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "AGSService",
+        "DisplayName": "Adobe Genuine Software Integrity Service",
+        "StartType": "Disabled"
+    },
+    {
+        "Name": "AGMService",
+        "DisplayName": "Adobe Genuine Software Monitor Service",
+        "StartType": "Disabled"
+    },
+    {
+        "Name": "AarSvc_14deef",
+        "DisplayName": "Agent Activation Runtime_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "AnyDesk",
+        "DisplayName": "AnyDesk Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Apache2.4",
+        "DisplayName": "Apache2.4",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "Apple Mobile Device Service",
+        "DisplayName": "Apple Mobile Device Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "AppleChargerSrv",
+        "DisplayName": "AppleChargerSrv",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Autodesk Access Service Host",
+        "DisplayName": "Autodesk Access Service Host",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "AdAppMgrSvc",
+        "DisplayName": "Autodesk Desktop App Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "AdskLicensingService",
+        "DisplayName": "Autodesk Desktop Licensing Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "PeerDistSvc",
+        "DisplayName": "BranchCache",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "CaptureService_14deef",
+        "DisplayName": "CaptureService_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "ConsentUxUserSvc_14deef",
+        "DisplayName": "ConsentUX_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "CoreMessagingRegistrar",
+        "DisplayName": "CoreMessaging",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "CredentialEnrollmentManagerUserSvc_14deef",
+        "DisplayName": "CredentialEnrollmentManagerUserSvc_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Dhcp",
+        "DisplayName": "DHCP-клиент",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "Dnscache",
+        "DisplayName": "DNS-клиент",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "dcsvc",
+        "DisplayName": "Declared Configuration(DC) service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "DeviceAssociationBrokerSvc_14deef",
+        "DisplayName": "DeviceAssociationBroker_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "DevicePickerUserSvc_14deef",
+        "DisplayName": "DevicePicker_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "DevicesFlowUserSvc_14deef",
+        "DisplayName": "DevicesFlow_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "diagsvc",
+        "DisplayName": "Diagnostic Execution Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "DialogBlockingService",
+        "DisplayName": "DialogBlockingService",
+        "StartType": "Disabled"
+    },
+    {
+        "Name": "Disc Soft Ultra Bus Service",
+        "DisplayName": "Disc Soft Ultra Bus Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "com.docker.service",
+        "DisplayName": "Docker Desktop Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "EABackgroundService",
+        "DisplayName": "EABackgroundService",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "EQU8_19",
+        "DisplayName": "EQU8_19",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "ekrnEpfw",
+        "DisplayName": "ESET Firewall Helper",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "efwd",
+        "DisplayName": "ESET Forwarder",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "ekrn",
+        "DisplayName": "ESET Service",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "EasyTuneEngineService",
+        "DisplayName": "EasyTuneEngineService",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "EpicOnlineServices",
+        "DisplayName": "Epic Online Services",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "LogWatch",
+        "DisplayName": "Event Log Watch",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "FileSyncHelper",
+        "DisplayName": "FileSyncHelper",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "FlexNet Licensing Service",
+        "DisplayName": "FlexNet Licensing Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Futuremark SystemInfo Service",
+        "DisplayName": "Futuremark SystemInfo Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "MyService1",
+        "DisplayName": "GIGABYTE Adjust",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "GameInput Service",
+        "DisplayName": "GameInput Service",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "GameInputSvc",
+        "DisplayName": "GameInput Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "GamingServices",
+        "DisplayName": "Gaming Services",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "GamingServicesNet",
+        "DisplayName": "Gaming Services",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "GbtCareBotService",
+        "DisplayName": "GbtCareBotService",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "Getscreen",
+        "DisplayName": "Getscreen",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "GoodbyeDPI",
+        "DisplayName": "GoodbyeDPI",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "GoogleChromeElevationService",
+        "DisplayName": "Google Chrome Elevation Service (GoogleChromeElevationService)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "GoogleUpdaterInternalService130.0.6679.0",
+        "DisplayName": "GoogleUpdater InternalService 130.0.6679.0 (GoogleUpdaterInternalService130.0.6679.0)",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "GoogleUpdaterService130.0.6679.0",
+        "DisplayName": "GoogleUpdater Service 130.0.6679.0 (GoogleUpdaterService130.0.6679.0)",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "GraphicsPerfSvc",
+        "DisplayName": "GraphicsPerfSvc",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Gservice",
+        "DisplayName": "Gservice",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "HwmRecordService",
+        "DisplayName": "HwMonitorRecordService",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "IDriverT",
+        "DisplayName": "InstallDriver Table Manager",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Intel(R) Capability Licensing Service TCP IP Interface",
+        "DisplayName": "Intel(R) Capability Licensing Service TCP IP Interface",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "cplspcon",
+        "DisplayName": "Intel(R) Content Protection HDCP Service",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "cphs",
+        "DisplayName": "Intel(R) Content Protection HECI Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "jhi_service",
+        "DisplayName": "Intel(R) Dynamic Application Loader Host Interface Service",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "igfxCUIService2.0.0.0",
+        "DisplayName": "Intel(R) HD Graphics Control Panel Service",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "WMIRegistrationService",
+        "DisplayName": "Intel(R) Management Engine WMI Provider Registration",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "LMS",
+        "DisplayName": "Intel(R) Management and Security Application Local Management Service",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "Intel(R) PROSet Monitoring Service",
+        "DisplayName": "Intel(R) PROSet Monitoring Service",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "IAStorDataMgrSvc",
+        "DisplayName": "Intel(R) Rapid Storage Technology",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "Intel(R) TPM Provisioning Service",
+        "DisplayName": "Intel(R) TPM Provisioning Service",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "JetBrainsEtwHost.16",
+        "DisplayName": "JetBrains ETW Host Service v16.36.0 (x64)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "KingoSoftService",
+        "DisplayName": "KingoSoftService",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "KtmRm",
+        "DisplayName": "KtmRm для координатора распределенных транзакций",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "LxssManager",
+        "DisplayName": "LxssManager",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "LxssManagerUser_14deef",
+        "DisplayName": "LxssManagerUser_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "McpManagementService",
+        "DisplayName": "McpManagementService",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "MessagingService_14deef",
+        "DisplayName": "MessagingService_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "AppVClient",
+        "DisplayName": "Microsoft App-V Client",
+        "StartType": "Disabled"
+    },
+    {
+        "Name": "MicrosoftEdgeElevationService",
+        "DisplayName": "Microsoft Edge Elevation Service (MicrosoftEdgeElevationService)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "edgeupdate",
+        "DisplayName": "Microsoft Edge Update Service (edgeupdate)",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "edgeupdatem",
+        "DisplayName": "Microsoft Edge Update Service (edgeupdatem)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "ClickToRunSvc",
+        "DisplayName": "Microsoft Office Click-to-Run Service",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "uhssvc",
+        "DisplayName": "Microsoft Update Health Service",
+        "StartType": "Disabled"
+    },
+    {
+        "Name": "MongoDB",
+        "DisplayName": "MongoDB Server (MongoDB)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "mosquitto",
+        "DisplayName": "Mosquitto Broker",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "MozillaMaintenance",
+        "DisplayName": "Mozilla Maintenance Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "MySQL80",
+        "DisplayName": "MySQL80",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "NVDisplay.ContainerLocalSystem",
+        "DisplayName": "NVIDIA Display Container LS",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "FvSvc",
+        "DisplayName": "NVIDIA FrameView SDK service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "NvContainerLocalSystem",
+        "DisplayName": "NVIDIA LocalSystem Container",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "OCButtonService",
+        "DisplayName": "OCButtonService",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "OfficeSvcManagerAddons",
+        "DisplayName": "OfficeSvcManagerAddons",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "OneDrive Updater Service",
+        "DisplayName": "OneDrive Updater Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "ssh-agent",
+        "DisplayName": "OpenSSH Authentication Agent",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "OverwolfUpdater",
+        "DisplayName": "Overwolf Updater Windows SCM",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "ParagonLinuxFSMounter",
+        "DisplayName": "ParagonLinuxFSMounter",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Parsec",
+        "DisplayName": "Parsec",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "p2pimsvc",
+        "DisplayName": "Peer Networking Identity Manager",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "PlugPlay",
+        "DisplayName": "Plug and Play",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "PnkBstrA",
+        "DisplayName": "PnkBstrA",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "PrintWorkflowUserSvc_14deef",
+        "DisplayName": "PrintWorkflow_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "QWAVE",
+        "DisplayName": "Quality Windows Audio Video Experience",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "RabbitMQ",
+        "DisplayName": "RabbitMQ",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "RvControlSvc",
+        "DisplayName": "Radmin VPN Control Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "RtkAudioUniversalService",
+        "DisplayName": "Realtek Audio Universal Service",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "RtkBtManServ",
+        "DisplayName": "Realtek Bluetooth Device Manager Service",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "rpcapd",
+        "DisplayName": "Remote Packet Capture Protocol v.0 (experimental)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Rockstar Service",
+        "DisplayName": "Rockstar Game Library Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "smphost",
+        "DisplayName": "SMP дисковых пространств (Майкрософт)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SQLWriter",
+        "DisplayName": "SQL Server VSS Writer",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SbieSvc",
+        "DisplayName": "Sandboxie Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "shpamsvc",
+        "DisplayName": "Shared PC Account Manager",
+        "StartType": "Disabled"
+    },
+    {
+        "Name": "Smart TimeLock",
+        "DisplayName": "Smart TimeLock Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Steam Client Service",
+        "DisplayName": "Steam Client Service",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "SysMain",
+        "DisplayName": "SysMain",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "TavernWorker_1_1",
+        "DisplayName": "TavernWorker_1_1",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "TeamViewer",
+        "DisplayName": "TeamViewer",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "TestComplete 7 Service",
+        "DisplayName": "TestComplete 7 Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "ucldr_battlegrounds_gl",
+        "DisplayName": "Uncheater for BattleGrounds_GL",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "VMAuthdService",
+        "DisplayName": "VMware Authorization Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "VmwareAutostartService",
+        "DisplayName": "VMware Autostart Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "VMnetDHCP",
+        "DisplayName": "VMware DHCP Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "VMware NAT Service",
+        "DisplayName": "VMware NAT Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "VMUSBArbService",
+        "DisplayName": "VMware USB Arbitration Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "vmware-converter-agent",
+        "DisplayName": "VMware vCenter Converter Standalone Agent",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "vmware-converter-server",
+        "DisplayName": "VMware vCenter Converter Standalone Server",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "vmware-converter-worker",
+        "DisplayName": "VMware vCenter Converter Standalone Worker",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "VRLService",
+        "DisplayName": "VRLService",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "VBoxSDS",
+        "DisplayName": "VirtualBox system service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "VSInstallerElevationService",
+        "DisplayName": "Visual Studio Installer Elevation Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "VSStandardCollectorService150",
+        "DisplayName": "Visual Studio Standard Collector Service 150",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WSLService",
+        "DisplayName": "WSL Service",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "WarpJITSvc",
+        "DisplayName": "WarpJITSvc",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Audiosrv",
+        "DisplayName": "Windows Audio",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "MixedRealityOpenXRSvc",
+        "DisplayName": "Windows Mixed Reality OpenXR Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WSearch",
+        "DisplayName": "Windows Search",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "WindscribeService",
+        "DisplayName": "Windscribe Service",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "XTU3SERVICE",
+        "DisplayName": "XTUOCDriverService",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "XboxGipSvc",
+        "DisplayName": "Xbox Accessory Management Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "YandexBrowserService",
+        "DisplayName": "Yandex.Browser Update Service",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "zksvc",
+        "DisplayName": "Zakynthos Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "ZeroTierOneService",
+        "DisplayName": "ZeroTier One",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "postgresql-x64-16",
+        "DisplayName": "postgresql-x64-16 - PostgreSQL Server 16",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "NcdAutoSetup",
+        "DisplayName": "Автоматическая настройка сетевых устройств",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "tzautoupdate",
+        "DisplayName": "Автоматическое обновление часового пояса",
+        "StartType": "Disabled"
+    },
+    {
+        "Name": "WwanSvc",
+        "DisplayName": "Автонастройка WWAN",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "CscService",
+        "DisplayName": "Автономные файлы",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "PolicyAgent",
+        "DisplayName": "Агент политики IPsec",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "wmiApSrv",
+        "DisplayName": "Адаптер производительности WMI",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WbioSrvc",
+        "DisplayName": "Биометрическая служба Windows",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "mpssvc",
+        "DisplayName": "Брандмауэр Защитника Windows",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "TimeBrokerSvc",
+        "DisplayName": "Брокер времени",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SgrmBroker",
+        "DisplayName": "Брокер мониторинга среды выполнения System Guard",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "SystemEventsBroker",
+        "DisplayName": "Брокер системных событий",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "DevQueryBroker",
+        "DisplayName": "Брокер фонового обнаружения DevQuery",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "svsvc",
+        "DisplayName": "Быстрая проверка",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WebClient",
+        "DisplayName": "Веб-клиент",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "vds",
+        "DisplayName": "Виртуальный диск",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "autotimesvc",
+        "DisplayName": "Время в сети мобильной связи",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "iphlpsvc",
+        "DisplayName": "Вспомогательная служба IP",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "embeddedmode",
+        "DisplayName": "Встроенный режим",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "seclogon",
+        "DisplayName": "Вторичный вход в систему",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "AppReadiness",
+        "DisplayName": "Готовность приложений",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "p2psvc",
+        "DisplayName": "Группировка сетевых участников",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "RasAuto",
+        "DisplayName": "Диспетчер автоматических подключений удаленного доступа",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "LSM",
+        "DisplayName": "Диспетчер локальных сеансов",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "DsmSvc",
+        "DisplayName": "Диспетчер настройки устройств",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Spooler",
+        "DisplayName": "Диспетчер печати",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "SEMgrSvc",
+        "DisplayName": "Диспетчер платежей и NFC/защищенных элементов",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Wcmsvc",
+        "DisplayName": "Диспетчер подключений Windows",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "RasMan",
+        "DisplayName": "Диспетчер подключений удаленного доступа",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "UserManager",
+        "DisplayName": "Диспетчер пользователей",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "XblAuthManager",
+        "DisplayName": "Диспетчер проверки подлинности Xbox Live",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "MapsBroker",
+        "DisplayName": "Диспетчер скачанных карт",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "TokenBroker",
+        "DisplayName": "Диспетчер учетных веб-записей",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "VaultSvc",
+        "DisplayName": "Диспетчер учетных данных",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SamSs",
+        "DisplayName": "Диспетчер учетных записей безопасности",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "hidserv",
+        "DisplayName": "Доступ к устройствам HID",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "EventLog",
+        "DisplayName": "Журнал событий Windows",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "pla",
+        "DisplayName": "Журналы и оповещения производительности",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "sppsvc",
+        "DisplayName": "Защита программного обеспечения",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "KeyIso",
+        "DisplayName": "Изоляция ключей CNG",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Winmgmt",
+        "DisplayName": "Инструментарий управления Windows",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "vmicguestinterface",
+        "DisplayName": "Интерфейс гостевой службы Hyper-V",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "DusmSvc",
+        "DisplayName": "Использование данных",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "gpsvc",
+        "DisplayName": "Клиент групповой политики",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "TrkWks",
+        "DisplayName": "Клиент отслеживания изменившихся связей",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "HgClientService",
+        "DisplayName": "Клиент службы защиты узла",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "NgcCtnrSvc",
+        "DisplayName": "Контейнер службы Microsoft Passport",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "MSDTC",
+        "DisplayName": "Координатор распределенных транзакций",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "FontCache3.0.0.0",
+        "DisplayName": "Кэш шрифтов Windows Presentation Foundation 3.0.0.0",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SNMPTRAP",
+        "DisplayName": "Ловушка SNMP",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "RpcLocator",
+        "DisplayName": "Локатор удаленного вызова процедур (RPC)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "RemoteAccess",
+        "DisplayName": "Маршрутизация и удаленный доступ",
+        "StartType": "Disabled"
+    },
+    {
+        "Name": "IKEEXT",
+        "DisplayName": "Модули ключей IPsec для обмена ключами в Интернете и протокола IP с проверкой подлинности",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "DcomLaunch",
+        "DisplayName": "Модуль запуска процессов DCOM-сервера",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "lmhosts",
+        "DisplayName": "Модуль поддержки NetBIOS через TCP/IP",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SessionEnv",
+        "DisplayName": "Настройка сервера удаленных рабочих столов",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "wcncsvc",
+        "DisplayName": "Немедленные подключения Windows - регистратор настройки",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SSDPSRV",
+        "DisplayName": "Обнаружение SSDP",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SharedAccess",
+        "DisplayName": "Общий доступ к подключению к Интернету (ICS)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "ShellHWDetection",
+        "DisplayName": "Определение оборудования оболочки",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "defragsvc",
+        "DisplayName": "Оптимизация дисков",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "DoSvc",
+        "DisplayName": "Оптимизация доставки",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "UmRdpService",
+        "DisplayName": "Перенаправитель портов пользовательского режима служб удаленных рабочих столов",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Power",
+        "DisplayName": "Питание",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "Schedule",
+        "DisplayName": "Планировщик задач",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "wercplsupport",
+        "DisplayName": "Поддержка панели управления \"Отчеты о проблемах\"",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SCPolicySvc",
+        "DisplayName": "Политика удаления смарт-карт",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "BcastDVRUserService_14deef",
+        "DisplayName": "Пользовательская служба DVR для игр и трансляции_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "UdkUserSvc_14deef",
+        "DisplayName": "Пользовательская служба UDK_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WpnUserService_14deef",
+        "DisplayName": "Пользовательская служба push-уведомлений Windows_14deef",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "cbdhsvc_14deef",
+        "DisplayName": "Пользовательская служба буфера обмена_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "wlidsvc",
+        "DisplayName": "Помощник по входу в учетную запись Майкрософт",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "NcaSvc",
+        "DisplayName": "Помощник по подключению к сети",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "NcbService",
+        "DisplayName": "Посредник подключений к сети",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "NaturalAuthentication",
+        "DisplayName": "Проверка подлинности на основе физических параметров",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "dot3svc",
+        "DisplayName": "Проводная автонастройка",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SDRSVC",
+        "DisplayName": "Программа архивации данных",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "swprv",
+        "DisplayName": "Программный поставщик теневого копирования (Microsoft)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "PNRPsvc",
+        "DisplayName": "Протокол PNRP",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "FDResPub",
+        "DisplayName": "Публикация ресурсов обнаружения функции",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "LanmanWorkstation",
+        "DisplayName": "Рабочая станция",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "workfolderssvc",
+        "DisplayName": "Рабочие папки",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "CertPropSvc",
+        "DisplayName": "Распространение сертификата",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "PrintNotify",
+        "DisplayName": "Расширения и уведомления для принтеров",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Eaphost",
+        "DisplayName": "Расширяемый протокол проверки подлинности (EAP)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "TroubleshootingSvc",
+        "DisplayName": "Рекомендованная служба устранения неполадок",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WpcMonSvc",
+        "DisplayName": "Родительский контроль",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Wecsvc",
+        "DisplayName": "Сборщик событий Windows",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Appinfo",
+        "DisplayName": "Сведения о приложении",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "LanmanServer",
+        "DisplayName": "Сервер",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "FrameServer",
+        "DisplayName": "Сервер кадров камеры Windows",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "XboxNetApiSvc",
+        "DisplayName": "Сетевая служба Xbox Live",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "hns",
+        "DisplayName": "Сетевая служба узла",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Netlogon",
+        "DisplayName": "Сетевой вход в систему",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Netman",
+        "DisplayName": "Сетевые подключения",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "OneSyncSvc_14deef",
+        "DisplayName": "Синхронизация узла_14deef",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "EventSystem",
+        "DisplayName": "Система событий COM+",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "COMSysApp",
+        "DisplayName": "Системное приложение COM+",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SecurityHealthService",
+        "DisplayName": "Служба \"Безопасность Windows\"",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "BthAvctpSvc",
+        "DisplayName": "Служба AVCTP",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Sense",
+        "DisplayName": "Служба Advanced Threat Protection в Защитнике Windows",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "AssignedAccessManagerSvc",
+        "DisplayName": "Служба AssignedAccessManager",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Bonjour Service",
+        "DisplayName": "Служба Bonjour",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "gupdate",
+        "DisplayName": "Служба Google Update (gupdate)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "gupdatem",
+        "DisplayName": "Служба Google Update (gupdatem)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "vmicvmsession",
+        "DisplayName": "Служба Hyper-V PowerShell Direct",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "LxpSvc",
+        "DisplayName": "Служба Language Experience Service",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WaaSMedicSvc",
+        "DisplayName": "Служба Medic центра обновления Windows",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "NgcSvc",
+        "DisplayName": "Служба Microsoft Passport",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "PushToInstall",
+        "DisplayName": "Служба PushToInstall Windows",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SstpSvc",
+        "DisplayName": "Служба SSTP",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "LicenseManager",
+        "DisplayName": "Служба Windows License Manager",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "icssvc",
+        "DisplayName": "Служба Windows Mobile Hotspot",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WinHttpAutoProxySvc",
+        "DisplayName": "Служба автоматического обнаружения веб-прокси WinHTTP",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WlanSvc",
+        "DisplayName": "Служба автонастройки WLAN",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WinDefend",
+        "DisplayName": "Служба антивирусной программы Microsoft Defender",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "BFE",
+        "DisplayName": "Служба базовой фильтрации",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "UevAgentService",
+        "DisplayName": "Служба виртуализации взаимодействия с пользователем",
+        "StartType": "Disabled"
+    },
+    {
+        "Name": "nvagent",
+        "DisplayName": "Служба виртуализации сети",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "vmicrdv",
+        "DisplayName": "Служба виртуализации удаленных рабочих столов Hyper-V",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "spectrum",
+        "DisplayName": "Служба восприятия Windows",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "W32Time",
+        "DisplayName": "Служба времени Windows",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "vmcompute",
+        "DisplayName": "Служба вычисления узлов Hyper-V",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "lfsvc",
+        "DisplayName": "Служба географического положения",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SensorDataService",
+        "DisplayName": "Служба данных датчиков",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SensorService",
+        "DisplayName": "Служба датчиков",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "RetailDemo",
+        "DisplayName": "Служба демонстрации магазина",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "camsvc",
+        "DisplayName": "Служба диспетчера доступа к возможностям",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WFDSConMgrSvc",
+        "DisplayName": "Служба диспетчера подключений служб Wi-Fi Direct",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "UserDataSvc_14deef",
+        "DisplayName": "Служба доступа к данным пользователя_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "vmicshutdown",
+        "DisplayName": "Служба завершения работы в качестве гостя (Hyper-V)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "stisvc",
+        "DisplayName": "Служба загрузки изображений Windows (WIA)",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "vmicvss",
+        "DisplayName": "Служба запросов на теневое копирование томов Hyper-V",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "BTAGService",
+        "DisplayName": "Служба звукового шлюза Bluetooth",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "cloudidsvc",
+        "DisplayName": "Служба идентификации облачных удостоверений (Майкрософт)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "perceptionsimulation",
+        "DisplayName": "Служба имитации восприятия Windows",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "MSiSCSI",
+        "DisplayName": "Служба инициатора Майкрософт iSCSI",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "nsi",
+        "DisplayName": "Служба интерфейса сохранения сети",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "BrokerInfrastructure",
+        "DisplayName": "Служба инфраструктуры фоновых задач",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "fhsvc",
+        "DisplayName": "Служба истории файлов",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "VacSvc",
+        "DisplayName": "Служба компоновщика объемного звука",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "PimIndexMaintenanceSvc_14deef",
+        "DisplayName": "Служба контактных данных_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WalletService",
+        "DisplayName": "Служба кошелька",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "FontCache",
+        "DisplayName": "Служба кэша шрифтов Windows",
+        "StartType": "Disabled"
+    },
+    {
+        "Name": "ClipSVC",
+        "DisplayName": "Служба лицензий клиента (ClipSVC)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "AJRouter",
+        "DisplayName": "Служба маршрутизатора AllJoyn",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SmsRouter",
+        "DisplayName": "Служба маршрутизатора SMS Microsoft Windows.",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "dmwappushservice",
+        "DisplayName": "Служба маршрутизации push-сообщений на основе протокола WAP (Wireless Application Protocol) для управления устройствами",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "wbengine",
+        "DisplayName": "Служба модуля архивации на уровне блоков",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SensrSvc",
+        "DisplayName": "Служба наблюдения за датчиками",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "IpxlatCfgSvc",
+        "DisplayName": "Служба настройки преобразования IP-адресов",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "NetSetupSvc",
+        "DisplayName": "Служба настройки сети",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "vmickvpexchange",
+        "DisplayName": "Служба обмена данными (Hyper-V)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "NetTcpPortSharing",
+        "DisplayName": "Служба общего доступа к портам Net.Tcp",
+        "StartType": "Disabled"
+    },
+    {
+        "Name": "WMPNetworkSvc",
+        "DisplayName": "Служба общих сетевых ресурсов проигрывателя Windows Media",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "UsoSvc",
+        "DisplayName": "Служба оркестратора обновлений",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "ScDeviceEnum",
+        "DisplayName": "Служба перечисления устройств чтения смарт-карт",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WPDBusEnum",
+        "DisplayName": "Служба перечислителя переносных устройств",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "CDPSvc",
+        "DisplayName": "Служба платформы подключенных устройств",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "bthserv",
+        "DisplayName": "Служба поддержки Bluetooth",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "BluetoothUserService_14deef",
+        "DisplayName": "Служба поддержки пользователей Bluetooth_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "DPS",
+        "DisplayName": "Служба политики диагностики",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "DispBrokerDesktopSvc",
+        "DisplayName": "Служба политики отображения",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "CDPUserSvc_14deef",
+        "DisplayName": "Служба пользователя платформы подключенных устройств_14deef",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "wlpasvc",
+        "DisplayName": "Служба помощника по локальному профилю",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "PcaSvc",
+        "DisplayName": "Служба помощника по совместимости программ",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "wisvc",
+        "DisplayName": "Служба предварительной оценки Windows",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WdNisSvc",
+        "DisplayName": "Служба проверки сети антивирусной программы Microsoft Defender",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SharedRealitySvc",
+        "DisplayName": "Служба пространственных данных",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "ProfSvc",
+        "DisplayName": "Служба профилей пользователей",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "PNRPAutoReg",
+        "DisplayName": "Служба публикации имен компьютеров PNRP",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "vmicheartbeat",
+        "DisplayName": "Служба пульса (Hyper-V)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "AppXSvc",
+        "DisplayName": "Служба развертывания AppX (AppXSVC)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WerSvc",
+        "DisplayName": "Служба регистрации ошибок Windows",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "DmEnrollmentSvc",
+        "DisplayName": "Служба регистрации управления устройством",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "StateRepository",
+        "DisplayName": "Служба репозитория состояний",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "NlaSvc",
+        "DisplayName": "Служба сведений о подключенных сетях",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "TabletInputService",
+        "DisplayName": "Служба сенсорной клавиатуры и панели рукописного ввода",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "vmictimesync",
+        "DisplayName": "Служба синхронизации времени Hyper-V",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WpnService",
+        "DisplayName": "Служба системы push-уведомлений Windows",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "DsSvc",
+        "DisplayName": "Служба совместного доступа к данным",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "DeviceAssociationService",
+        "DisplayName": "Служба сопоставления устройств",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "netprofm",
+        "DisplayName": "Служба списка сетей",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "SENS",
+        "DisplayName": "Служба уведомления о системных событиях",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "WinRM",
+        "DisplayName": "Служба удаленного управления Windows (WS-Management)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "HvHost",
+        "DisplayName": "Служба узла HV",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WEPHOSTSVC",
+        "DisplayName": "Служба узла поставщика шифрования Windows",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "DisplayEnhancementService",
+        "DisplayName": "Служба улучшения отображения",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WManSvc",
+        "DisplayName": "Служба управления Windows",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "EntAppSvc",
+        "DisplayName": "Служба управления корпоративными приложениями",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "RmSvc",
+        "DisplayName": "Служба управления радио",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "InstallService",
+        "DisplayName": "Служба установки Microsoft Store",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "DeviceInstall",
+        "DisplayName": "Служба установки устройств",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "UnistoreSvc_14deef",
+        "DisplayName": "Служба хранения данных пользователя_14deef",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "StorSvc",
+        "DisplayName": "Служба хранилища",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "BDESVC",
+        "DisplayName": "Служба шифрования дисков BitLocker",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "ALG",
+        "DisplayName": "Служба шлюза уровня приложения",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "CryptSvc",
+        "DisplayName": "Службы криптографии",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "TermService",
+        "DisplayName": "Службы удаленных рабочих столов",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "SCardSvr",
+        "DisplayName": "Смарт-карта",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WiaRpc",
+        "DisplayName": "События получения неподвижных изображений",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "RpcEptMapper",
+        "DisplayName": "Сопоставитель конечных точек RPC",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "XblGameSave",
+        "DisplayName": "Сохранение игр на Xbox Live",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "AudioEndpointBuilder",
+        "DisplayName": "Средство построения конечных точек Windows Audio",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "diagnosticshub.standardcollector.service",
+        "DisplayName": "Стандартная служба сборщика центра диагностики Microsoft (R)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "TapiSrv",
+        "DisplayName": "Телефония",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "PhoneSvc",
+        "DisplayName": "Телефонная связь",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Themes",
+        "DisplayName": "Темы",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "VSS",
+        "DisplayName": "Теневое копирование тома",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "lltdsvc",
+        "DisplayName": "Тополог канального уровня",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "RpcSs",
+        "DisplayName": "Удаленный вызов процедур (RPC)",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "RemoteRegistry",
+        "DisplayName": "Удаленный реестр",
+        "StartType": "Disabled"
+    },
+    {
+        "Name": "AppIDSvc",
+        "DisplayName": "Удостоверение приложения",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WdiSystemHost",
+        "DisplayName": "Узел системы диагностики",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "WdiServiceHost",
+        "DisplayName": "Узел службы диагностики",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "upnphost",
+        "DisplayName": "Узел универсальных PNP-устройств",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "vmms",
+        "DisplayName": "Управление виртуальными машинами Hyper-V",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "AppMgmt",
+        "DisplayName": "Управление приложениями",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "TieringEngineService",
+        "DisplayName": "Управление уровнями хранилища",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "AxInstSV",
+        "DisplayName": "Установщик ActiveX (AxInstSV)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "msiserver",
+        "DisplayName": "Установщик Windows",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "TrustedInstaller",
+        "DisplayName": "Установщик модулей Windows",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "Fax",
+        "DisplayName": "Факс",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "MsKeyboardFilter",
+        "DisplayName": "Фильтрация клавиатуры Microsoft",
+        "StartType": "Disabled"
+    },
+    {
+        "Name": "BITS",
+        "DisplayName": "Фоновая интеллектуальная служба передачи (BITS)",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "DiagTrack",
+        "DisplayName": "Функциональные возможности для подключенных пользователей и телеметрия",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "PerfHost",
+        "DisplayName": "Хост библиотеки счетчика производительности",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "fdPHost",
+        "DisplayName": "Хост поставщика функции обнаружения",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "wscsvc",
+        "DisplayName": "Центр обеспечения безопасности",
+        "StartType": "Automatic"
+    },
+    {
+        "Name": "wuauserv",
+        "DisplayName": "Центр обновления Windows",
+        "StartType": "Manual"
+    },
+    {
+        "Name": "EFS",
+        "DisplayName": "Шифрованная файловая система (EFS)",
+        "StartType": "Manual"
+    }
+]
+Failed to get some services:
+[31;1mGet-Service: [0m
+[31;1m[36;1mLine |[0m
+[31;1m[36;1m[36;1m   2 | [0m         [36;1mGet-Service[0m | Select-Object -Property Name,DisplayName,Status :[0m
+[31;1m[36;1m[36;1m[0m[36;1m[0m[36;1m     | [31;1m         ~~~~~~~~~~~[0m
+[31;1m[36;1m[36;1m[0m[36;1m[0m[36;1m[31;1m[31;1m[36;1m     | [31;1mService 'McpManagementService (McpManagementService)' cannot be queried due to the following error: PermissionDenied[0m
+
+[
+    {
+        "Name": "wuauserv",
+        "DisplayName": "Центр обновления Windows",
+        "StartType": "Manual -> Off"
+    }
+]
+Failed to get some services:
+None
+Error parsing services
+None
+the JSON object must be str, bytes or bytearray, not NoneType
